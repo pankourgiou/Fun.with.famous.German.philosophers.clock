@@ -1,0 +1,1 @@
+#This is a funny famous German philosophers clock...says the time literally..speaks the word yet you'll have to install first pyttsx3   module. In order to do that you type pip install pyttsx3   and...voila...!!you run the program like any other python program. :)
